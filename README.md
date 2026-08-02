@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sasha1985y
-- 👀 Now is the era of vibe coding, but I want to become a real programmer. And, to be honest, the temptation to use LLMs in my work really hinders that. And if I ever become a real programmer, it will seem very strange, in my opinion.”
+- 👀 Now is the era of vibe coding, but I want to become a real programmer. And, to be honest, the temptation to use LLMs in my work really hinders that. And if I ever become a real programmer, it will seem very strange, in my opinion.
 - 🌱 I’m currently learning C and SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: https://vk.com/karkade2021
